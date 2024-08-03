@@ -28,6 +28,9 @@
     "eject": "react-scripts eject",
     "start": "node --max-old-space-size=4096 server.js"
   },
+   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
   "eslintConfig": {
     "extends": [
       "react-app",
